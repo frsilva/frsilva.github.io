@@ -4,6 +4,3 @@ highlighter: rouge
 markdown: redcarpet
 title: Fábio Rodrigues Silva
 description: Personal Website
-menu:
-- item 1
-- item 2
